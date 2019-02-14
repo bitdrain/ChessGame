@@ -1,0 +1,24 @@
+- Pieces/Figures & different moves (OO Design)
+- Rules
+- Table board -> fix: an image?
+- A map for each piece on the board ?
+- Algorithm or smart ML technique / AI
+- Graphical interface
+- 3 operation modes: (1) Person vs Person, (2) Person vs computer and (3) computer vs computer 
+- Logging of moves and execution times
+- Move of cursor
+- Use database for taking genious previous games or ideas
+- Key algorithms
+	- move generation
+	- board evaluation
+	- minimax
+	- alpha beta pruning (very fast)
+	
+- Is there any library for move generation?
+- Is there a library for visualizing the board?
+- "Stockfish"
+- Search algorithms
+- Graph tree with possible moves (limit tree depth)
+- Evaluation function
+
+- Great link: https://medium.freecodecamp.org/simple-chess-ai-step-by-step-1d55a9266977

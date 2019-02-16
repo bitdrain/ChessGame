@@ -1,18 +1,18 @@
 /*
- * ChessGame.cpp
+ * History.cpp
  *
  *  Created on: 16 Feb 2019
  *      Author: jperez
  */
 
-#include "ChessGame.h"
+#include "History.h"
 
-ChessGame::ChessGame() {
+History::History() {
 	// TODO Auto-generated constructor stub
 
 }
 
-ChessGame::~ChessGame() {
+History::~History() {
 	// TODO Auto-generated destructor stub
 }
 

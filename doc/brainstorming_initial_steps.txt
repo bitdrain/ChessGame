@@ -26,3 +26,6 @@
 - Great discussion on architecture/design of the game: https://codereview.stackexchange.com/questions/71790/design-a-chess-game-using-object-oriented-principles
 
 - Design Document for a chess program: https://inst.eecs.berkeley.edu/~cs162/sp07/Nachos/chess.shtml
+
+- THE DESIGN AND IMPLEMENTATION OF AN ADAPTIVE CHESS GAME: https://scholarworks.lib.csusb.edu/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1255&context=etd
+

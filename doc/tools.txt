@@ -2,3 +2,4 @@ Eclipse CDT 2018-12 C/C++
 Java SDK 8
 github repo: https://github.com/bitdrain/ChessGame.git
 Initial version: C++ 11
+Google test for unit testing
